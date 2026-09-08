@@ -21,7 +21,7 @@ instead of a saved photo.
 
 ## Setup
 
-You'll need Python 3.9+ and a handful of packages:
+You'll need Python 3.9+ and below 3.12 a handful of packages:
 
 ```bash
 pip install pillow opencv-contrib-python sympy tensorflow
