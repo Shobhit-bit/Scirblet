@@ -96,4 +96,4 @@ same folder, or update the path if you move things around.
 
 Symbol classifier trained on the
 [Handwritten Digits and Operators](https://www.kaggle.com/datasets/michelheusser/handwritten-digits-and-operators)
-dataset by Michel Heusser on Kaggle.
+dataset by Michel Heusser on Kaggle all credits to him.
