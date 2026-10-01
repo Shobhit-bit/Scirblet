@@ -7,7 +7,7 @@ and hands the equation off to SymPy to solve.
 
 ![status](https://img.shields.io/badge/status-working%20prototype-yellow)
 
-## What's in here
+## What's in here?
 
 | File | What it is |
 |---|---|
